@@ -1,0 +1,6 @@
+{
+	"DEVICE_AWESOME_DISCONNECT": {
+			"message": "Disconexión",
+			"description": "Este botón se usa para deconectar el dispositivo."
+	}
+}
